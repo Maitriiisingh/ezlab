@@ -120,13 +120,11 @@ gunicorn -w 4 "app:create_app()"
 
 Postman screenshots
 
-image.png
-image.png
-image.png
-image.png
-image.png
-![image](https://github.com/user-attachments/assets/80d06334-0b68-41da-8114-e59cd51f114d)
-![image](https://github.com/user-attachments/assets/a9423086-00e3-4b16-9da4-2b2f0b618e97)
-![image](https://github.com/user-attachments/assets/eba7f7ae-f6df-4d31-b996-88f2ccb8fb71)
-![image](https://github.com/user-attachments/assets/3fc69c02-3539-4a35-a2bc-e435be752e12)
-![image](https://github.com/user-attachments/assets/602de89b-7178-40f3-becc-31a78ca465af)
+<img width="995" alt="Screenshot 2025-07-02 at 2 34 06 PM" src="https://github.com/user-attachments/assets/1c9064d5-6d0d-4a41-9d5f-74f52567d8c7" />
+<img width="998" alt="Screenshot 2025-07-02 at 2 08 00 PM" src="https://github.com/user-attachments/assets/e7702e7b-e541-47a3-81c1-74bbec8ddacd" /><img width="1150" alt="Screenshot 2025-07-02 at 2 12 46 PM" src="https://github.com/user-attachments/assets/0dbc4eae-4827-4594-b424-53580432af9f" />
+<img width="1002" alt="Screenshot 2025-07-02 at 2 11 03 PM" src="https://github.com/user-attachments/assets/e2c6aae8-ee38-455c-a6e6-89d8de3bb3f7" />
+<img width="999" alt="Screenshot 2025-07-02 at 2 09 25 PM" src="https://github.com/user-attachments/assets/9c5d63fa-6027-4298-a373-0b15bc16b64a" />
+
+
+
+
